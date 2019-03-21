@@ -1,0 +1,22 @@
+.hex-color {
+    height: 90px;
+    width: 150px;
+    background-color: rgb(255,255,255);
+    border: 1px solid rgb(236, 233, 233);
+}
+
+.display-red {
+    background-color: rgb(255, 0, 0)
+}
+
+.display-green {
+    background-color: rgb(0, 255, 0)
+}
+
+.display-blue {
+    background-color: rgb(0, 0, 255)
+}
+
+#hex-number {
+    text-transform: uppercase;
+}
